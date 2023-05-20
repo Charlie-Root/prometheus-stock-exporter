@@ -1,3 +1,16 @@
+# -*- coding: utf-8 -*-
+#
+#  main.py
+#  project
+#
+# ---------------------------------------------------------------------------
+#  Created by Wieger Bontekoe on 2023-05-20.
+#  Copyright 2023 Bontekoe Technology. All rights reserved.
+#---------------------------------------------------------------------------
+#
+#  wieger@bontekoe.technology
+#
+# pylint: disable-msg=F0401
 import os
 import threading
 import time
